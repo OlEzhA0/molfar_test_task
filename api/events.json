@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "title": "Celebration of life",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua nostrud exercitation laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen. in voluptate velit esse cillum dolore eu",
+    "calendar": {
+      "infoDate": "Friday, October 20, 2019",
+      "moreInfo": "9:00 AM - 2:00 PM",
+      "linkText": "Add to Calendar",
+      "imageUrl": "images/icons/calendar.svg",
+      "link": "https://calendar.google.com/calendar/"
+    },
+    "address": {
+      "infoDate": "St. Marry Church",
+      "moreInfo": "2475 Ericsson Str., IL 60169, USA",
+      "linkText": "Show on map",
+      "imageUrl": "images/icons/marker.svg",
+      "link": "https://www.google.com.ua/maps/place/%D0%94%D0%BD%D0%B8%D0%BF%D1%80%D0%BE,+%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C,+49000/@48.4624412,34.8602745,11z/data=!4m5!3m4!1s0x40dbe303fd08468f:0xa1cf3d5f2c11aba!8m2!3d48.4647265!4d35.0463867?hl=ru"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Celebration of life 2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua nostrud exercitation laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen. in voluptate velit esse cillum dolore eu",
+    "calendar": {
+      "infoDate": "Friday, October 20, 2019",
+      "moreInfo": "9:00 AM - 2:00 PM",
+      "linkText": "Add to Calendar",
+      "imageUrl": "images/icons/calendar.svg",
+      "link": "https://calendar.google.com/calendar/"
+    },
+    "address": {
+      "infoDate": "St. Marry Church",
+      "moreInfo": "2475 Ericsson Str., IL 60169, USA",
+      "linkText": "Show on map",
+      "imageUrl": "images/icons/marker.svg",
+      "link": "https://www.google.com.ua/maps/place/%D0%94%D0%BD%D0%B8%D0%BF%D1%80%D0%BE,+%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C,+49000/@48.4624412,34.8602745,11z/data=!4m5!3m4!1s0x40dbe303fd08468f:0xa1cf3d5f2c11aba!8m2!3d48.4647265!4d35.0463867?hl=ru"
+    }
+  },
+
+  {
+    "id": 3,
+    "title": "Celebration of life 3",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua nostrud exercitation laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen. in voluptate velit esse cillum dolore eu",
+    "calendar": {
+      "infoDate": "Friday, October 20, 2019",
+      "moreInfo": "9:00 AM - 2:00 PM",
+      "linkText": "Add to Calendar",
+      "imageUrl": "images/icons/calendar.svg",
+      "link": "https://calendar.google.com/calendar/"
+    },
+    "address": {
+      "infoDate": "St. Marry Church",
+      "moreInfo": "2475 Ericsson Str., IL 60169, USA",
+      "linkText": "Show on map",
+      "imageUrl": "images/icons/marker.svg",
+      "link": "https://www.google.com.ua/maps/place/%D0%94%D0%BD%D0%B8%D0%BF%D1%80%D0%BE,+%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C,+49000/@48.4624412,34.8602745,11z/data=!4m5!3m4!1s0x40dbe303fd08468f:0xa1cf3d5f2c11aba!8m2!3d48.4647265!4d35.0463867?hl=ru"
+    }
+  },
+
+  {
+    "id": 4,
+    "title": "Celebration of life 4",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua nostrud exercitation laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen. in voluptate velit esse cillum dolore eu",
+    "calendar": {
+      "infoDate": "Friday, October 20, 2019",
+      "moreInfo": "9:00 AM - 2:00 PM",
+      "linkText": "Add to Calendar",
+      "imageUrl": "images/icons/calendar.svg",
+      "link": "https://calendar.google.com/calendar/"
+    },
+    "address": {
+      "infoDate": "St. Marry Church",
+      "moreInfo": "2475 Ericsson Str., IL 60169, USA",
+      "linkText": "Show on map",
+      "imageUrl": "images/icons/marker.svg",
+      "link": "https://www.google.com.ua/maps/place/%D0%94%D0%BD%D0%B8%D0%BF%D1%80%D0%BE,+%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C,+49000/@48.4624412,34.8602745,11z/data=!4m5!3m4!1s0x40dbe303fd08468f:0xa1cf3d5f2c11aba!8m2!3d48.4647265!4d35.0463867?hl=ru"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Celebration of life 5",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua nostrud exercitation laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen. in voluptate velit esse cillum dolore eu",
+    "calendar": {
+      "infoDate": "Friday, October 20, 2019",
+      "moreInfo": "9:00 AM - 2:00 PM",
+      "linkText": "Add to Calendar",
+      "imageUrl": "images/icons/calendar.svg",
+      "link": "https://calendar.google.com/calendar/"
+    },
+    "address": {
+      "infoDate": "St. Marry Church",
+      "moreInfo": "2475 Ericsson Str., IL 60169, USA",
+      "linkText": "Show on map",
+      "imageUrl": "images/icons/marker.svg",
+      "link": "https://www.google.com.ua/maps/place/%D0%94%D0%BD%D0%B8%D0%BF%D1%80%D0%BE,+%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C,+49000/@48.4624412,34.8602745,11z/data=!4m5!3m4!1s0x40dbe303fd08468f:0xa1cf3d5f2c11aba!8m2!3d48.4647265!4d35.0463867?hl=ru"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Celebration of life 6",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua nostrud exercitation laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen. in voluptate velit esse cillum dolore eu",
+    "calendar": {
+      "infoDate": "Friday, October 20, 2019",
+      "moreInfo": "9:00 AM - 2:00 PM",
+      "linkText": "Add to Calendar",
+      "imageUrl": "images/icons/calendar.svg",
+      "link": "https://calendar.google.com/calendar/"
+    },
+    "address": {
+      "infoDate": "St. Marry Church",
+      "moreInfo": "2475 Ericsson Str., IL 60169, USA",
+      "linkText": "Show on map",
+      "imageUrl": "images/icons/marker.svg",
+      "link": "https://www.google.com.ua/maps/place/%D0%94%D0%BD%D0%B8%D0%BF%D1%80%D0%BE,+%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C,+49000/@48.4624412,34.8602745,11z/data=!4m5!3m4!1s0x40dbe303fd08468f:0xa1cf3d5f2c11aba!8m2!3d48.4647265!4d35.0463867?hl=ru"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Celebration of life 7",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua nostrud exercitation laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehen. in voluptate velit esse cillum dolore eu",
+    "calendar": {
+      "infoDate": "Friday, October 20, 2019",
+      "moreInfo": "9:00 AM - 2:00 PM",
+      "linkText": "Add to Calendar",
+      "imageUrl": "images/icons/calendar.svg",
+      "link": "https://calendar.google.com/calendar/"
+    },
+    "address": {
+      "infoDate": "St. Marry Church",
+      "moreInfo": "2475 Ericsson Str., IL 60169, USA",
+      "linkText": "Show on map",
+      "imageUrl": "images/icons/marker.svg",
+      "link": "https://www.google.com.ua/maps/place/%D0%94%D0%BD%D0%B8%D0%BF%D1%80%D0%BE,+%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C,+49000/@48.4624412,34.8602745,11z/data=!4m5!3m4!1s0x40dbe303fd08468f:0xa1cf3d5f2c11aba!8m2!3d48.4647265!4d35.0463867?hl=ru"
+    }
+  }
+]
