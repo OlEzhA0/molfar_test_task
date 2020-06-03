@@ -1,0 +1,148 @@
+@import '../../styles/utils/vars.scss';
+
+.Event {
+  &__InfoContainer {
+    box-sizing: border-box;
+    padding: 15rem 2.5rem 1rem;
+
+    @media screen and (max-width: $screen-extra-small) {
+      padding: 15rem 1.5rem 1rem;
+    }
+  }
+
+  &__Title {
+    font-size: 2rem;
+
+    @media screen and (max-width: $screen-custom-extra-small) {
+      font-size: 1.5rem;
+    }
+  }
+
+  &__PlaceAndDescr {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1rem;
+
+    @media screen and (max-width: $screen-small) {
+      flex-direction: column;;
+    }
+
+    @media screen and (max-width: $screen-extra-small) {
+      padding: 0 0.5rem;
+    }
+  }  
+
+  &__Button {
+    display: block;
+    margin: 0 auto;
+    width: 12rem;
+    height: 2.5rem;
+    outline: 0;
+    border: 0;
+    color: $color-button-text;
+    background-color: $color-button;
+    border-radius: 40px;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.3s;
+  
+    &:hover {
+      box-shadow: 1px 0px 11px -1px rgba(35,140,187,0.79);
+    }
+  }
+
+  &__CheckMark {
+    width: 20px;
+    left: 15%;
+    top: 50%;
+    transform: translate(0, -50%);
+    position: absolute;
+  }
+
+  &__ButtonContainer {
+    padding: 2rem 0;
+  }
+
+  &__MoreInfoButton {
+    width: 2rem;
+    height: 2rem;
+    position: absolute;
+    top: 1rem;
+    cursor: pointer;
+    right: 1.5rem;
+    text-align: center;
+
+    &--btn {
+      display: none;
+    }
+  }
+
+  &__MainDot {
+    position: relative;
+    color: #fff;
+    font-size: 2rem;
+    height: 100%;
+    line-height: 1rem;
+
+    &::after,
+    &::before {
+      position: absolute;
+      content: ".";
+      left: -0.5rem;
+    }
+
+    &::before {
+      right: -1.5rem;
+    }
+  }
+
+  &__BackMemorial {
+    position: absolute;
+    display: none;
+    color: #000;
+    z-index: 6;
+    margin-left: 10px;
+    line-height: 29px;
+    top: 5px;
+    cursor: pointer;
+
+    @media screen and (max-width: $screen-custom-extra-small) {
+      display: flex;
+      align-content: center;
+      align-items: center;
+    }
+
+    &--btn {
+      display: none;
+    }
+  }
+
+  &__BackIcon {
+    width: 1rem;
+    top: 50%;
+    margin-right: 0.5rem;
+  }
+
+  &__MainText {
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 0.5rem;
+    display: flex;
+    align-content: center;
+  }
+}
+
+@media screen and (max-width: $screen-small) {
+  .Event__Information {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+@media screen and (max-width: $screen-custom-extra-small) {
+  .Event__Information {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+}

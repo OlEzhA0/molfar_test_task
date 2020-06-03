@@ -1,0 +1,23 @@
+@import '../../styles/utils/vars.scss';
+
+.ButtonForDetails {
+
+  &__Button {
+    width: 15rem;
+    height: 3rem;
+    outline: 0;
+    font-size: 1.5rem;
+    box-shadow: 1px 0px 11px -1px rgba(35,140,187,0.79);
+    color: $color-button-text;
+    background-color: $color-button;
+    border: 1px solid $color-button;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: all 0.3s;
+
+    &:hover {
+      color: $color-button;
+      background-color: $color-button-text;
+    }
+  }
+}
