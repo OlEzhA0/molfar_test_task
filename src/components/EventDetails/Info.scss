@@ -1,0 +1,62 @@
+@import '../../styles/utils/vars.scss';
+
+.Info {
+  &__Container {
+    position: absolute;
+    width: 15rem;
+    border-radius: 1rem;
+    background-color: #fff;
+    opacity: 0;
+    transform: translate(100rem);
+    transition: opacity 0.3s, transform 0.5s;
+    top: 4rem;
+    right: 1rem;
+    z-index: 5;
+    overflow: hidden;
+
+    &--open {
+    opacity: 1;
+    transform: translate(0);
+    }
+  }
+
+  &__Item {
+    padding: 1rem 19px;
+    display: flex;
+    max-height: 3rem;
+    align-content: center;
+    transition: all 0.3s;
+    position: relative;
+    box-sizing: border-box;
+    cursor: pointer;
+  
+    &::after {
+      position: absolute;
+      content: "";
+      width: 100%;
+      height: 1px;
+      bottom: 0;
+      background-color: #e8e9ed;
+      left: 0;
+    }
+
+    &:hover {
+      background-color: rgb(189, 184, 184);
+    }
+
+    &:last-child::after {
+      display: none;
+    }
+  }
+
+  &__Icons {
+    width: 1.5rem;
+    margin-right: 1.5rem;
+  }
+
+  &__Link {
+    text-decoration: none;
+    color: $color-primary-text;
+    line-height: 1rem;    
+  }
+}

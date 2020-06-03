@@ -1,0 +1,47 @@
+@import '../../styles/utils/vars.scss';
+
+.Event {
+  &__InfoWrapper {
+    display: flex;
+    margin: 1.5rem 0;
+
+    @media screen and (max-width: $screen-custom-extra-small) {
+      margin: 1rem 0;
+    }
+
+    @media screen and (max-width: $screen-custom-small) {
+      margin: 0.5rem 0;
+    }
+  }
+
+  &__Icons {
+    width: 2rem;
+    margin-right: 1.5rem;
+    
+    @media screen and (max-width: $screen-custom-small) {
+      width: 1.5rem;
+      margin-right: 1rem;
+    }
+  }
+
+  &__Descr {
+    font-size: 13px;
+    font-weight: bold;
+
+    @media screen and (max-width: $screen-custom-small) {
+      font-size: 11px;
+    }
+  }
+
+  &__Link {
+    text-decoration: none;
+    font-weight: bold;
+    color: $color-link-popup;
+    font-size: 13px;
+    transition: all 0.3s;
+  
+    &:hover {
+      color: darken($color: $color-link-popup, $amount: 15);
+    }
+  }
+}

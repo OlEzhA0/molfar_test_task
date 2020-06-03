@@ -1,0 +1,7 @@
+export const OPEN_POPUP = 'OPEN_POPUP';
+export const CLOSE_POPUP = 'CLOSE_POPUP';
+export const LOAD_EVENTS = 'LOAD_EVENTS';
+export const LOADING_STATUS = 'LOADING_STATUS';
+export const LOADED_STATUS = 'LOADED_STATUS';
+export const LOADING_ERROR = 'LOADING_ERROR';
+export const CURRENT_POPUP_ID = 'CURRENT_POPUP_ID'
